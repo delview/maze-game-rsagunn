@@ -33,8 +33,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"spr_character",
+    "path":"folders/Sprites/spr_character.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
