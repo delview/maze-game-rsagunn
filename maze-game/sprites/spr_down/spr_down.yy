@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"spr_down",
-  "bboxMode":0,
-  "bbox_bottom":58,
-  "bbox_left":47,
+  "bboxMode":2,
+  "bbox_bottom":54,
+  "bbox_left":51,
   "bbox_right":82,
   "bbox_top":5,
   "collisionKind":1,
