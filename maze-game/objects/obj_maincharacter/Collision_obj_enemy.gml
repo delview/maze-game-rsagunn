@@ -1,4 +1,6 @@
-/// @DnDAction : YoYo Games.Movement.Jump_To_Start
+/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
-/// @DnDHash : 0A5113D3
-x = xstart;y = ystart;
+/// @DnDHash : 7FFCF8F2
+/// @DnDArgument : "room" "rm_jumpscare"
+/// @DnDSaveInfo : "room" "rm_jumpscare"
+room_goto(rm_jumpscare);
