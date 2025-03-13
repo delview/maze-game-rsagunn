@@ -70,11 +70,7 @@
     {"id":{"name":"rm_stagewin","path":"rooms/rm_stagewin/rm_stagewin.yy",},},
     {"id":{"name":"sd_bgmusic","path":"sounds/sd_bgmusic/sd_bgmusic.yy",},},
     {"id":{"name":"sd_jumpscare","path":"sounds/sd_jumpscare/sd_jumpscare.yy",},},
-<<<<<<< Updated upstream
     {"id":{"name":"sd_scarymusic","path":"sounds/sd_scarymusic/sd_scarymusic.yy",},},
-=======
-    {"id":{"name":"sd_win","path":"sounds/sd_win/sd_win.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"spr_brick","path":"sprites/spr_brick/spr_brick.yy",},},
     {"id":{"name":"spr_caution","path":"sprites/spr_caution/spr_caution.yy",},},
     {"id":{"name":"spr_chest","path":"sprites/spr_chest/spr_chest.yy",},},
